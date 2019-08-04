@@ -1,7 +1,3 @@
-[submodule "edicionesfiscales"]
-	path = edicionesfiscales
-	url = git@git.vauxoo.com:Vauxoo/edicionesfiscales.git
-	branch = 12.0
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:Vauxoo/mexico.git
