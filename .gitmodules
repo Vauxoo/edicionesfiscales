@@ -13,4 +13,4 @@
 [submodule "edicionesfiscales"]
 	path = edicionesfiscales
 	url = git@git.vauxoo.com:Vauxoo/edicionesfiscales.git
-	branch = 12.0-update-luisg
+	branch = 12.0
