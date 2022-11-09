@@ -22,3 +22,7 @@
 	path = partner-contact
 	url = git@github.com:Vauxoo/partner-contact.git
 	branch = 15.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 15.0
