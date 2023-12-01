@@ -14,10 +14,6 @@
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
 	branch = 15.0
-[submodule "sh-tools"]
-	path = sh-tools
-	url = git@git.vauxoo.com:vauxoo/sh-tools.git
-	branch = 15.0
 [submodule "partner-contact"]
 	path = partner-contact
 	url = git@github.com:Vauxoo/partner-contact.git
