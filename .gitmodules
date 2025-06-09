@@ -22,3 +22,7 @@
 	path = stock-logistics-workflow
 	url = git@github.com:Vauxoo/stock-logistics-workflow.git
 	branch = 15.0
+[submodule "account-customer-invoice-split-discount"]
+	path = account-customer-invoice-split-discount
+	url = git@git.vauxoo.com:vauxoo/account-customer-invoice-split-discount.git
+	branch = 15.0
