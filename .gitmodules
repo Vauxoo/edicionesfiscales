@@ -1,28 +1,28 @@
 [submodule "edicionesfiscales"]
 	path = edicionesfiscales
 	url = git@git.vauxoo.com:vauxoo/edicionesfiscales.git
-	branch = 15.0
-[submodule "mexico"]
-	path = mexico
-	url = git@git.vauxoo.com:Vauxoo/mexico.git
-	branch = 15.0
+	branch = 19.0-migration-desdelinux
 [submodule "edi-document"]
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
-	branch = 15.0
+	branch = 19.0
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
-	branch = 15.0
+	branch = 19.0
 [submodule "partner-contact"]
 	path = partner-contact
 	url = git@github.com:Vauxoo/partner-contact.git
-	branch = 15.0
+	branch = 19.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = git@github.com:Vauxoo/stock-logistics-workflow.git
-	branch = 15.0
-[submodule "account-customer-invoice-split-discount"]
-	path = account-customer-invoice-split-discount
-	url = git@git.vauxoo.com:vauxoo/account-customer-invoice-split-discount.git
-	branch = 15.0
+	branch = 19.0
+[submodule "l10n-mx-edi-cancellation"]
+	path = l10n-mx-edi-cancellation
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-cancellation.git
+	branch = 19.0
+[submodule "product-refund-accounts"]
+	path = product-refund-accounts
+	url = git@git.vauxoo.com:vauxoo/product-refund-accounts.git
+	branch = 19.0
